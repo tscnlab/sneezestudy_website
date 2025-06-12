@@ -1,0 +1,11 @@
+---
+title: "Publications"
+---
+
+# Preprints
+
+Bickerstaff, L., Trinkl, J., Munkwitz, S., & Spitschan, M. (2024). Sneezing in response to bright light exposure: A case study in a photic sneezer [Preprint]. *bioRxiv*. [10.1101/2024.12.11.627890](https://doi.org/10.1101/2024.12.11.627890)
+
+# Peer-reviewed publications
+
+Trinkl, J., Bickerstaff, L., Munkwitz, S., & Spitschan, M. (2025). Stimulus conditions eliciting sneezing in response to bright light. *Experimental Brain Research, 243*(2), 56. [10.1007/s00221-024-06988-4](https://doi.org/10.1007/s00221-024-06988-4)
