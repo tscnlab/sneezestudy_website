@@ -1,11 +1,6 @@
 ---
 title: "Imprint"
 title-block-banner: true
-format:
-  html:
-    toc: true
-    toc-location: left
-    lightbox: true
 ---
 
 [Max Planck Research Group Translational Sensory and Circadian Neuroscience](https://www.kyb.tuebingen.mpg.de/614159/translational-sensory-and-circadian-neuroscience)
