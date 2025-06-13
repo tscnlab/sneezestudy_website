@@ -1,17 +1,45 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Preprints\nBickerstaff, L., Trinkl, J., Munkwitz, S., & Spitschan, M. (2024). Sneezing in response to bright light exposure: A case study in a photic sneezer [Preprint]. bioRxiv. 10.1101/2024.12.11.627890\n\n\nPeer-reviewed publications\nTrinkl, J., Bickerstaff, L., Munkwitz, S., & Spitschan, M. (2025). Stimulus conditions eliciting sneezing in response to bright light. Experimental Brain Research, 243(2), 56. 10.1007/s00221-024-06988-4"
-  },
-  {
     "objectID": "imprint.html",
     "href": "imprint.html",
     "title": "Imprint",
     "section": "",
     "text": "Max Planck Research Group Translational Sensory and Circadian Neuroscience\nMax Planck Institute for Biological Cybernetics\nMax-Planck-Ring 8-14\nD-72076 Tübingen\nGermany\nEmail: manuel.spitschan@tuebingen.mpg.de\nTelephone: +49 (0)7071 601 1670"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "put the terms of the license here"
+  },
+  {
+    "objectID": "license.html#license-type",
+    "href": "license.html#license-type",
+    "title": "License",
+    "section": "",
+    "text": "put the terms of the license here"
+  },
+  {
+    "objectID": "contributing.html",
+    "href": "contributing.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "Describe how people can contribute to this project"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Preprints\nBickerstaff, L., Trinkl, J., Munkwitz, S., & Spitschan, M. (2024). Sneezing in response to bright light exposure: A case study in a photic sneezer [Preprint]. bioRxiv. 10.1101/2024.12.11.627890\n\n\nPeer-reviewed publications\nTrinkl, J., Bickerstaff, L., Munkwitz, S., & Spitschan, M. (2025). Stimulus conditions eliciting sneezing in response to bright light. Experimental Brain Research, 243(2), 56. 10.1007/s00221-024-06988-4"
   },
   {
     "objectID": "index.html",
