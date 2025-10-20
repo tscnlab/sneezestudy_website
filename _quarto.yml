@@ -7,8 +7,8 @@ website:
   page-navigation: true
   bread-crumbs: true
   image: "assets/logo-registry.png"
-  
   navbar:
+    logo: "assets/logo-registry.png"
     left:
       - text: Home
         href: index.qmd
