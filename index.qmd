@@ -8,6 +8,8 @@ title: "Global Photic Sneeze Registry"
 
 Some people sneeze when they suddenly step into bright light -- sunlight, camera flashes, or even a bright lamp. This curious response is known as the photic sneeze reflex, or the ACHOO phenomenon (Autosomal Dominant Compelling Helio-Ophthalmic Outburst). While harmless, it remains one of the least understood quirks of human sensory biology.
 
+![](assets/sneeze.png)
+
 The Global Photic Sneeze Registry is an international science initiative led by the [Translational Sensory & Circadian Neuroscience Unit (MPS/TUM/TUMCREATE](https://tscnlab.org/)). Its goal is to collect anonymous stories and experiences from people around the world - both those who sneeze in response to light and those who do not — to better understand how and why this phenomenon occurs.
 
 # What we do
