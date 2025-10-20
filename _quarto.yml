@@ -11,6 +11,8 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: Registry
+        href: registry.qmd
       - text: Publications
         href: publications.qmd
   page-footer:
