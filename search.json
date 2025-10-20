@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "imprint.html",
-    "href": "imprint.html",
-    "title": "Imprint",
+    "objectID": "registry.html",
+    "href": "registry.html",
+    "title": "Global Photic Sneeze Registry",
     "section": "",
-    "text": "Max Planck Research Group Translational Sensory and Circadian Neuroscience\nMax Planck Institute for Biological Cybernetics\nMax-Planck-Ring 8-14\nD-72076 Tübingen\nGermany\nEmail: manuel.spitschan@tuebingen.mpg.de\nTelephone: +49 (0)7071 601 1670"
+    "text": "About\nSome people sneeze when they suddenly step into bright light – sunlight, camera flashes, or even a bright lamp. This curious response is known as the photic sneeze reflex, or the ACHOO phenomenon (Autosomal Dominant Compelling Helio-Ophthalmic Outburst). While harmless, it remains one of the least understood quirks of human sensory biology.\nThe Global Photic Sneeze Registry is an international science initiative led by the Translational Sensory & Circadian Neuroscience Unit (MPS/TUM/TUMCREATE). Its goal is to collect anonymous stories and experiences from people around the world - both those who sneeze in response to light and those who do not — to better understand how and why this phenomenon occurs.\n\n\nWhat we do\nThrough an anonymous online questionnaire hosted on the secure REDCap platform at TUM, we gather: * Demographic information (such as age and gender) * Structured questions on sneezing frequency, triggers and environmental contexts * Open-ended personal descriptions of what it feels like to sneeze in response to light\nParticipants can also choose to share a short signature line (e.g., “It always happens when I step outside after a movie — Josh from Malibu”“) to appear on this website, showcasing the diversity of experiences worldwide.\n\n\nWhy it matters\nDespite its seemingly whimsical nature, the photic sneeze reflex opens a window into how light interacts with the nervous system. By compiling stories and patterns from across the globe, the Registry aims to: * Describe the characteristics and variability of the reflex * Identify common triggers and contexts * Lay the groundwork for future research into the underlying neural and genetic mechanisms\n\n\nOur principles\n\nAnonymity: No personally identifying information is collected.\nVoluntary participation: You can stop at any time before submitting your response.\nTransparency: Aggregated, anonymized data will be made publicly available following quality control and ethical review, in line with FAIR (Findable, Accessible, Interoperable, Reusable) data principles.\n\n\n\nGet involved\nDo you sneeze when you look at bright light – or do you never sneeze in light and wonder why? Your experience can help us uncover new insights into this fascinating human reflex.\n\n\nContact\nFor any questions, please get in touch at manuel.spitschan@tum.de."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Preprints\nBickerstaff, L., Trinkl, J., Munkwitz, S., & Spitschan, M. (2024). Sneezing in response to bright light exposure: A case study in a photic sneezer [Preprint]. bioRxiv. 10.1101/2024.12.11.627890\n\n\nPeer-reviewed publications\nTrinkl, J., Bickerstaff, L., Munkwitz, S., & Spitschan, M. (2025). Stimulus conditions eliciting sneezing in response to bright light. Experimental Brain Research, 243(2), 56. 10.1007/s00221-024-06988-4"
   },
   {
     "objectID": "license.html",
@@ -21,11 +28,11 @@
     "text": "put the terms of the license here"
   },
   {
-    "objectID": "contributing.html",
-    "href": "contributing.html",
-    "title": "Contributing",
+    "objectID": "imprint.html",
+    "href": "imprint.html",
+    "title": "Imprint",
     "section": "",
-    "text": "Describe how people can contribute to this project"
+    "text": "Max Planck Research Group Translational Sensory and Circadian Neuroscience\nMax Planck Institute for Biological Cybernetics\nMax-Planck-Ring 8-14\nD-72076 Tübingen\nGermany\nEmail: manuel.spitschan@tuebingen.mpg.de\nTelephone: +49 (0)7071 601 1670"
   },
   {
     "objectID": "about.html",
@@ -35,11 +42,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "contributing.html",
+    "href": "contributing.html",
+    "title": "Contributing",
     "section": "",
-    "text": "Preprints\nBickerstaff, L., Trinkl, J., Munkwitz, S., & Spitschan, M. (2024). Sneezing in response to bright light exposure: A case study in a photic sneezer [Preprint]. bioRxiv. 10.1101/2024.12.11.627890\n\n\nPeer-reviewed publications\nTrinkl, J., Bickerstaff, L., Munkwitz, S., & Spitschan, M. (2025). Stimulus conditions eliciting sneezing in response to bright light. Experimental Brain Research, 243(2), 56. 10.1007/s00221-024-06988-4"
+    "text": "Describe how people can contribute to this project"
   },
   {
     "objectID": "index.html",
