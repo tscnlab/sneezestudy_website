@@ -8,7 +8,7 @@ Have you ever sneezed when you stepped into bright sunlight? You’re not alone.
 
 Despite its high prevalence, many people who don’t experience it have never heard of it. That’s part of what makes it so fascinating: it’s a widely shared phenomenon that remains largely invisible to those unaffected.
 
-The Global Photic Sneeze Study is a research-driven effort to better understand why this reflex occurs, how it varies between individuals, and what mechanisms in the brain and body might explain it.
+The [Global Photic Sneeze Registry[(https://sneezestudy.org/registry)] is a research-driven effort to better understand why this reflex occurs, how it varies between individuals, and what mechanisms in the brain and body might explain it.
 
 Our goal is to combine insights from genetics, neuroscience, and sensory biology to uncover the underpinnings of this light-triggered response.
 
