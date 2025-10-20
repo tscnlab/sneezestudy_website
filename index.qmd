@@ -15,6 +15,7 @@ The Global Photic Sneeze Registry is an international science initiative led by 
 # What we do
 
 Through an anonymous online questionnaire hosted on the secure REDCap platform at TUM, we gather:
+
 * Demographic information (such as age and gender)
 * Structured questions on sneezing frequency, triggers and environmental contexts
 * Open-ended personal descriptions of what it feels like to sneeze in response to light
@@ -24,6 +25,7 @@ Participants can also choose to share a short signature line (e.g., "It always h
 # Why it matters
 
 Despite its seemingly whimsical nature, the photic sneeze reflex opens a window into how light interacts with the nervous system. By compiling stories and patterns from across the globe, the Registry aims to:
+
 * Describe the characteristics and variability of the reflex
 * Identify common triggers and contexts
 * Lay the groundwork for future research into the underlying neural and genetic mechanisms
